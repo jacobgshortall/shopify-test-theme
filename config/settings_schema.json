@@ -1,7 +1,7 @@
 [
   {
     "name": "Jacob's test theme",
-    "theme_name": "Dawn",
+    "theme_name": "Jacob's test theme",
     "theme_version": "7.0.0",
     "theme_author": "Shopify",
     "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
@@ -14,7 +14,7 @@
         "type": "header",
         "content": "t:settings_schema.colors.settings.header__1.content"
       },
-      {
+        {
         "type": "color",
         "id": "colors_solid_button_labels",
         "default": "#FFFFFF",
